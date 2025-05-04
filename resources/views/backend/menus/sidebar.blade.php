@@ -43,6 +43,15 @@
 
 
 
+                @hasrole('usuario')
+    <li class="nav-item">
+        <a href="{{ route('libros.index') }}" target="frameprincipal" class="nav-link">
+            <i class="nav-icon fas fa-book"></i>
+            <p>Libros</p>
+        </a>
+    </li>
+@endhasrole
+
 
             </ul>
         </nav>

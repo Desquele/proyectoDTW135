@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<libros>
+    <libro>
+        <titulo>Los herederos de farabundo</titulo>
+        <autor>José Roberto Cea</autor>
+        <anio>1981</anio>
+    </libro>
+    <libro>
+        <titulo>De la guanaxia irredenta</titulo>
+        <autor>José Roberto Cea</autor>
+        <anio>1994</anio>
+    </libro>
+    <libro>
+        <titulo>Cuentos de barro</titulo>
+        <autor>Salarrué</autor>
+        <anio>1933</anio>
+    </libro>
+    <libro>
+        <titulo>Cuentos de cipotes</titulo>
+        <autor>Salarrué</autor>
+        <anio>1945</anio>
+    </libro>
+    <libro>
+        <titulo>La ciudad y otros relatos</titulo>
+        <autor>José Roberto Cea</autor>
+        <anio>1971</anio>
+    </libro>
+</libros>
