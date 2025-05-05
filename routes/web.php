@@ -59,4 +59,6 @@ Route::get('/libros', [LibrosController::class, 'index'])->name('libros.index');
 
 // --- CONVERSIÓN SOAP TEMPERATURA ---
 Route::get('/temperatura', [SoapTemperaturaController::class, 'index'])->name('temperatura.index');
-Route::post('/temperatura/convertir', [SoapTemperaturaController::class, 'convertir'])->name('temperatura.convertir');
+Route::post('/temperatura/convertir', [SoapTemperaturaController::class, 'convertir'])
+    ->name('temperatura.convertir');
+

@@ -42,27 +42,26 @@
                 @endcan
 
 
-// 
+                <!--Muestra la opción de acceder a libros desde el lado izquierdo unicamente-->
                 @hasrole('usuario')
-    <li class="nav-item">
-        <a href="{{ route('libros.index') }}" target="frameprincipal" class="nav-link">
-            <i class="nav-icon fas fa-book"></i>
-            <p>Libros</p>
-        </a>
-    </li>
-@endhasrole
-
-@hasrole('usuario')
-    <li class="nav-item">
-        <a href="http://127.0.0.1:8081/temperatura" target="_blank" class="nav-link">
-            <i class="nav-icon fas fa-thermometer-half"></i>
-            <p>Temperatura</p>
-        </a>
-    </li>
-@endhasrole
+                <li class="nav-item">
+                    <a href="{{ route('libros.index') }}" target="frameprincipal" class="nav-link">
+                        <i class="nav-icon fas fa-book"></i>
+                        <p>Libros</p>
+                    </a>
+                </li>
+                @endhasrole
 
 
-
+                <!--Muestra la opción de acceder a conversor de temperatura desde el lado izquierdo unicamente-->
+                @hasrole('usuario')
+                <li class="nav-item">
+                    <a href="{{ url('temperatura') }}" target="frameprincipal" class="nav-link">
+                        <i class="nav-icon fas fa-thermometer-half"></i>
+                        <p>Conversor de temperatura</p>
+                    </a>
+                </li>
+                @endhasrole
             </ul>
         </nav>
 
