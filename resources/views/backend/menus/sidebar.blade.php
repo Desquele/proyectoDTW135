@@ -42,7 +42,7 @@
                 @endcan
 
 
-
+// 
                 @hasrole('usuario')
     <li class="nav-item">
         <a href="{{ route('libros.index') }}" target="frameprincipal" class="nav-link">
@@ -51,6 +51,16 @@
         </a>
     </li>
 @endhasrole
+
+@hasrole('usuario')
+    <li class="nav-item">
+        <a href="http://127.0.0.1:8081/temperatura" target="_blank" class="nav-link">
+            <i class="nav-icon fas fa-thermometer-half"></i>
+            <p>Temperatura</p>
+        </a>
+    </li>
+@endhasrole
+
 
 
             </ul>
