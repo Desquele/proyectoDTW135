@@ -19,7 +19,6 @@ Asegúrate de tener instalado lo siguiente:
 3. **Node.js y npm** → [Descargar Node.js](https://nodejs.org/)
 4. **MySQL Workbench** o cliente de base de datos para gestionar la base
 5. **Visual Studio Code u otro IDE** 
-6. 
 ---
 
 ## Clonación del Proyecto
