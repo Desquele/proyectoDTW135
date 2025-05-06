@@ -125,4 +125,29 @@ Puedes acceder como:
 - **Admin** o **usuario** con las credenciales generadas en el seeder (si aplica).
 - Las rutas principales y vistas se muestran dependiendo del tipo de usuario.
 
+### En el usuario: usuario, contraseña: 1234. 
+
+Se encuentra el menu con las partes que se solicitaban: 
+
+![image](https://github.com/user-attachments/assets/8f39560d-d20b-4492-9c48-5a274574a3b6)
+
+## Parte 1:  Lectura de XML y conversión a JSON: 
+
+![image](https://github.com/user-attachments/assets/ada52d1c-457a-44bf-a762-b22fe01e3621)
+
+## Parte 2: Implementar servicio SOAP:
+
+![image](https://github.com/user-attachments/assets/b5bf65ea-f274-4325-ac2e-2d8a494971b5)
+
+### Funcionamiento de parte 2: 
+
+![image](https://github.com/user-attachments/assets/d9f5461a-e733-40fd-a73b-1a441492be29)
+
+![image](https://github.com/user-attachments/assets/71e68022-7ad6-4877-8788-6ed080cb6ea0)
+
+
+
+
+
+
 ---
