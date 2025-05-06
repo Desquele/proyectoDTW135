@@ -75,7 +75,7 @@ php artisan key:generate
 
 **Abrir Herd como administrador.**
 
-![image](https://github.com/user-attachments/assets/5ad7597f-96f2-4ddb-837d-429c17fb31f4)
+![img1](https://github.com/user-attachments/assets/eff02630-1ee1-44af-92d8-5373844a05e1)
 
 ---
 
@@ -98,11 +98,11 @@ php artisan db:seed
 
 Con Herd abrir la carpeta que contiene el poyecto en Link existing project:
 
-![image](https://github.com/user-attachments/assets/40ed4e7f-7d7f-4e16-ba8b-3bd7f3cd57f0)
+![img2](https://github.com/user-attachments/assets/0340826c-19ff-4240-9646-c7bfe63be168)
 
 Accede al link generado por Herd, como:
 
-![Soap](https://github.com/user-attachments/assets/531a71a5-9003-4a98-84d6-bed362ca64ab)
+![img3](https://github.com/user-attachments/assets/0c5338cd-7fc6-4db7-80fb-a89603720066)
 
 Opción 2: Con servidor PHP integrado ejecutar:
 
