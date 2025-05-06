@@ -6,7 +6,7 @@ Integrantes:
 - Guillermo Alexander Rodríguez Cortez
 ---
 
-Se detallan todos los pasos para configurarlo correctamente el proyecto:
+Se detallan todos los pasos para configurar el proyecto correctamente:
 
 ---
 
