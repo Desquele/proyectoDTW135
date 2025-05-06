@@ -141,7 +141,11 @@ Se encuentra el menu con las partes que se solicitaban:
 
 ### Funcionamiento de parte 2: 
 
+celsius a farenheit:
+
 ![image](https://github.com/user-attachments/assets/d9f5461a-e733-40fd-a73b-1a441492be29)
+
+farenheit a celsius:
 
 ![image](https://github.com/user-attachments/assets/71e68022-7ad6-4877-8788-6ed080cb6ea0)
 
